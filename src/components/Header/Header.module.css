@@ -1,0 +1,12 @@
+.block {
+    background-color: #265B91;
+    padding: 20px 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 80px;
+}
